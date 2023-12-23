@@ -1,7 +1,6 @@
 ### Who am I? 🤔
 
 - I am a  🇸🇬 Singaporean  🇸🇬 computer science undergradute at [Singapore Institute of Technology](https://www.singaporetech.edu.sg/about/overseas-university-partners/digipen-institute-technology-singapore), where I'd [do a full-time internship program in late 2024](https://www.singaporetech.edu.sg/integrated-work-study-programme) until graduating finally in May 2025.
-- Regarding my interests are in tech, [my main curiosities are in computer graphics, game development and front-end web development](https://clementineaccount.github.io/about/). In particular, I have a fondness for coding stuff that have real-time interactivity and visual components. Despite that, I am open minded to specializing in something different as my career matures.
 - My blog, which has more details about [my projects](https://clementineaccount.github.io/categories/projects/) and write some articles, is updated weekly at [https://clementineaccount.github.io/](https://clementineaccount.github.io/)
 
 <!--
